@@ -1,0 +1,49 @@
+body {
+   background-color: rgb(167, 177, 255)
+}
+
+img{
+   width: 400px;
+   position: relative;
+   border-radius: 200px;
+   filter: brightness(80%);
+   filter: contrast(200%);
+}
+ 
+.hakla-about, .hakla-merch ,.hakla-ig{
+   display: inline-block;
+   width: 450px;
+   height: 520px;
+   vertical-align: top;
+   background-color: antiquewhite;
+}
+
+
+.hakla{
+   color: rgb(31, 166, 83);
+}
+
+h1{
+   font-style: italic;
+   color:white ;
+   font-size: 50px;
+}
+
+h2{
+   font-style: italic;
+   color: white;   
+}
+
+p{
+   color: brown;
+}
+
+.hakla-boss{
+   display: inline-block;
+   
+}
+
+.searchbar{
+    width: 800px;
+    display: inline-block;
+}
