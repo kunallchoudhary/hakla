@@ -30,7 +30,7 @@ p{
 }
 
 a{
-   text-decoration: none;  
+   text-decoration: none;
 }
 
 .heading-merch{
@@ -39,6 +39,13 @@ a{
    text-align: center;
    margin-top: -35px;
    cursor: pointer;
+}
+
+.searchbar-addtocart-login {
+   display:flex;
+   flex-direction: row;
+   justify-content: space-between;
+   
 }
 
 .nav-product{
